@@ -2,6 +2,10 @@
   "name": "shuddule",
   "version": "0.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShudDule/npmjs.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
