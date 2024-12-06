@@ -2,15 +2,20 @@
   "name": "shuddule",
   "version": "0.0.1",
   "description": "ex",
+  "homepage": "https://shuddule.github.io/npmjs-website",
   "repository": {
     "type": "git",
     "url": "https://github.com/ShudDule/npmjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShudDule/npmjs/issues",
+    "email": "jetsadawijit@outlook.com"
   },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "JetsadaWijit <ze_ro_owen@hotmail.com>",
+  "author": "JetsadaWijit <jetsadawijit@outlook.com>",
   "license": "MIT"
 }
